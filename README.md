@@ -18,3 +18,5 @@ kindly run the following commands
 make run  to run the app
 make appbundle to release appbundle
 make build-apk to release an apk
+
+please note that i commented out gitignore to allow the keyfiles to be uploaded for test purposes
