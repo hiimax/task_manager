@@ -1,5 +1,9 @@
 This is a sample task manager app meant to sync data offline and online
 
+
+Uploading Simulator Screen Recording - iPhone 15 Pro Max - 2024-09-04 at 22.52.28.mp4…
+
+
 to run  this app successfully ,
 
 kindly run the following commands
