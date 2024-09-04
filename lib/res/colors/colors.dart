@@ -1,0 +1,44 @@
+import '../../res/import/import.dart';
+
+/// constant colors
+const Color taskManagerTransparent = Colors.transparent;
+const Color taskManagerBlack = Colors.black;
+const Color taskManagerRed = Colors.red;
+const Color taskManagerGrey = Color(0xff98A2B3);
+const Color taskManagerWhite = Colors.white;
+const Color taskManagerGreen = Colors.green;
+const Color taskManagerBackgroundColor = Color(0xffFEFEFE);
+
+const Color taskManagerPrimaryColor = Color(0xff6ABA51);
+const Color taskManagerSecondaryColor = Color(0xffFFC300);
+const Color taskManagerTertiaryColor = Color(0xffF4D0D9);
+const Color taskManagerTextColor = Color(0xff1E1E1E);
+const Color taskManagerHintTextColor = Color(0xff1E1E1E);
+const Color taskManagerFillColor = Color(0xffF9FAFB);
+const Color taskManagerSubColor = Color(0xffFEFEFE);
+const Color taskManagerPopUpGreyColor = Color(0xff141414);
+const Color taskManagerWhiteToBlackColor = Color(0xffCCCCCC);
+const Color taskManagerSubColor1 = Color(0xff999999);
+const Color taskManagerDeactivatedGrey = Color(0xffBBB5AC);
+const Color taskManagerGetOTPColor = Color(0xffF5F4FF);
+const Color taskManagerCountryColor = Color(0xff667085);
+const Color taskManagerTierColor = Color(0xffEBF2FF);
+const Color taskManagerCurrencyDropColor = Color(0xffCFF1FF);
+const Color taskManagerPurpleColor = Color(0xff9A4AFF);
+const Color taskManagerDividerColor = Color(0xffCCCCD0);
+const Color taskManagerSplashColor = Color(0xffF0F8EE);
+const Color taskManagerColor1 = Color(0xff666666);
+const Color taskManagerColor2 = Color(0xff0F0F0F);
+const Color taskManagerColor3 = Color(0xff1A1A1A);
+const Color taskManagerColor4 = Color(0xffE4ECE2);
+const Color taskManagerColor5 = Color(0xff023E4F);
+const Color taskManagerColor6 = Color(0xffF2F2F2);
+const Color taskManagerColor7 = Color(0xffEFFFF0);
+const Color taskManagerColor8 = Color(0xffD0D5DD);
+const Color taskManagerColor9 = Color(0xffEE6639);
+const Color taskManagerColor10 = Color(0xffF1636A);
+const Color taskManagerColor11 = Color(0xff0170A6);
+const Color taskManagerColor12 = Color(0xffD1EAC9);
+const Color taskManagerColor13 = Color(0xffF5F7FC);
+const Color taskManagerColor14 = Color(0xff076E87);
+const Color taskManagerColor15 = Color(0xffB8D7E6);
